@@ -2,4 +2,5 @@ Name: Ironhacker
 Age: 25
 Favorite Color: Yellow
 Car: Seat Leon
-Country : Spain
+Country: Spain
+City: Zaragoza
